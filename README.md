@@ -1,9 +1,9 @@
-## Introduciton
+## Introduction
 
-This is an introduciton to my streamlit application
+This is an introducton to my streamlit application
 
-it consists of the following tools
+It is meant to help you with your exploratory data analysis. It includes: 
 
-1. item 1
-2. item 2
-3. item 3
+1. customizable histograms for numeric variables 
+2. customizable bar plots for categorical variables
+3. five-number summary for numeric variables
